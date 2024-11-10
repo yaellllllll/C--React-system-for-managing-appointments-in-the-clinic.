@@ -1,0 +1,30 @@
+E:\project YaeLibi\UI\bin\Debug\net6.0\UI.exe
+E:\project YaeLibi\UI\bin\Debug\net6.0\UI.deps.json
+E:\project YaeLibi\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+E:\project YaeLibi\UI\bin\Debug\net6.0\UI.dll
+E:\project YaeLibi\UI\bin\Debug\net6.0\UI.pdb
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.dll
+E:\project YaeLibi\UI\obj\Debug\net6.0\refint\UI.dll
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.pdb
+E:\project YaeLibi\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+E:\project YaeLibi\UI\obj\Debug\net6.0\ref\UI.dll
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\bin\Debug\net6.0\UI.exe
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\bin\Debug\net6.0\UI.deps.json
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\bin\Debug\net6.0\UI.dll
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\bin\Debug\net6.0\UI.pdb
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.dll
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\refint\UI.dll
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.pdb
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+F:\לימודים תקיות מסודרות\_______c#\cyl\UI\obj\Debug\net6.0\ref\UI.dll

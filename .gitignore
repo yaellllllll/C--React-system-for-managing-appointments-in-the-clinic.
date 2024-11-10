@@ -1,0 +1,5 @@
+# קבצים ותיקיות זמניים
+*.log
+*.tmp
+/node_modules
+/dist
